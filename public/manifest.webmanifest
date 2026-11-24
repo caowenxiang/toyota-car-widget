@@ -1,0 +1,19 @@
+{
+  "name": "车况小组件",
+  "short_name": "车况",
+  "description": "一汽丰田车况小组件 · Web 演示版",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B0D10",
+  "theme_color": "#0B0D10",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
